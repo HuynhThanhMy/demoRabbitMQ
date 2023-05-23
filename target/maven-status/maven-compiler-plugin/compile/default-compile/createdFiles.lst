@@ -1,0 +1,4 @@
+rabbitmq\App.class
+rabbitmq\consumer.class
+rabbitmq\producer.class
+rabbitmq\consumer$1.class
